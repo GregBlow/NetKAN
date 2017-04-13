@@ -1,0 +1,11 @@
+{
+    "spec_version" : "1.4",
+    "identifier"   : "Firma",
+    "$kref"        : "#/ckan/spacedock/1317",
+    "license"      : "CC-BY-NC-SA-4.0"
+	"name": "Firma",
+	"abstract": "Firma is a parts pack for building permanent bases.",
+	"author": "Sassenach"
+	"version": "0.1.2",
+	"ksp_version": "1.2.2",
+}
